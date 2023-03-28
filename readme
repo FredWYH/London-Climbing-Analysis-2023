@@ -1,0 +1,6 @@
+This is an analytical project that explores the decision making of climbers amongst climbing walls in London.
+Only 29 walls in Greater London are included in this dataset, as far east as Hayes (The Nest), west (The Reach), south (Croywall), northeast (Harrowall), and northwest (Yonder).
+Individual categories of pricing are logged, including standard, concession, discounts, membership and rentals.
+Comparisons are put up against factors like facilities available, and opening hours.
+
+Dataset is manually collated from pricing published and available on the individual websites as of 28 March 2023.
